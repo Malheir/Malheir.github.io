@@ -1,0 +1,26 @@
+/*Configuração do corpo*/
+
+#corpo{
+    background-color:lightgray;
+    font-family: Arial, sans-serif;
+    height:300px;
+    width: 600px;
+    padding: 2px;
+}
+
+/*Estilização dos links*/
+
+#endereco {
+    font-size:20px;
+    color:black;
+    display:inline;
+    margin: 1px;
+    list-style-type:none;
+    padding:0%;
+}
+
+/*Estilização do conteúdo*/
+
+#darkbody {
+    
+}
