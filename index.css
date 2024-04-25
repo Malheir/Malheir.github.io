@@ -3,8 +3,8 @@
 #corpo{
     background-color:lightgray;
     font-family: Arial, sans-serif;
-    height:300px;
-    width: 600px;
+    height: 350px;
+    width: 1000px;
     padding: 2px;
 }
 
@@ -22,5 +22,5 @@
 /*Estilização do conteúdo*/
 
 #darkbody {
-    
+
 }
